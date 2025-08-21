@@ -1,2 +1,3 @@
 # aula.python
-Introdução da linguagem de programação python
+Introdução à linguagem Python
+Conceitos básicos da linguagem
